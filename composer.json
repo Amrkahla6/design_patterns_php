@@ -1,0 +1,16 @@
+{
+    "name": "amr/design_pattern",
+    "description": "Learn design pattern using PHP",
+    "autoload": {
+        "psr-4": {
+            "DesignPattern\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Amr Kahla",
+            "email": "amrkahla6@gmail.com"
+        }
+    ],
+    "require": {}
+}
